@@ -1,4 +1,4 @@
 # Navarro.Cervantes.Jose
-#Ing. mecatronica
-#8°B Turno matutino
-#Cinematica de Robots
+Ing. mecatronica
+8°B Turno matutino
+Cinematica de Robots
